@@ -65,7 +65,7 @@ Add your live GitHub Pages link here later.
 
 Example:
 
-https://your-username.github.io/repository-name/
+https://shaurya888-ai.github.io/ShauryaBabu/
 
 ---
 
